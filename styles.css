@@ -1,0 +1,34 @@
+body {
+  background-color: #e8eeee;
+}
+a {
+  text-decoration: none;
+}
+nav {
+  background-color: #0d0d0d;
+}
+nav .nav-profile-control {
+  font-size: 0.95em;
+  color: white;
+}
+nav a {
+  color: white !important;
+}
+main {
+  padding: 0 10em;
+}
+.comments-item p {
+  font-size: 0.9em;
+}
+.comments-header {
+  background-color: #0d0d0d;
+}
+form .error-msg {
+  color: #F75347;
+}
+form .error-msg.show {
+  visibility: visible;
+}
+form .error-msg.hide {
+  visibility: hidden;
+}
